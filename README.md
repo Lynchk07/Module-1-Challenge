@@ -19,14 +19,16 @@ This is code for a class assignment to refactor code to meet accessibility stand
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-# Web Addresses: https://github.com/Lynchk07/Module-1-Challenge.git
+# Web Addresses: 
+https://github.com/Lynchk07/Module-1-Challenge.git
 
-# GITHub: git@github.com:Lynchk07/Module-1-Challenge.git
+# GITHub: 
+git@github.com:Lynchk07/Module-1-Challenge.git
 
 # Installation: 
 
 * Creat your own respository in Github with a README File. 
-* USE GITBASH or Terminal to  git pull your repository from GitHub.![my screenshot](./assets/screenshot.png)
+* USE GITBASH or Terminal to  git pull your repository from GitHub.![my screenshot](./assets/images/screenshot.png)
 * You can also use VS code and pull directly in using gitbash or terminal, as well. 
 
 
