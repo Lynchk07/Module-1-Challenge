@@ -19,7 +19,7 @@ This is code for a class assignment to refactor code to meet accessibility stand
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-# Web Addresses: 
+# Web Address: 
 https://github.com/Lynchk07/Module-1-Challenge.git
 
 # GITHub: 
