@@ -20,7 +20,7 @@ This is code for a class assignment to refactor code to meet accessibility stand
 * THEN I find a concise, descriptive title
 
 # Web Address: 
-https://github.com/Lynchk07/Module-1-Challenge.git
+https://lynchk07.github.io/Module-1-Challenge/
 
 # GITHub: 
 git@github.com:Lynchk07/Module-1-Challenge.git
